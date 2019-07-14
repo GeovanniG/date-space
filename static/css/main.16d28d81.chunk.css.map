@@ -1,0 +1,1 @@
+{"version":3,"sources":["Card.css"],"names":[],"mappings":"AAAA,WACI,cAAe,CACf,eACJ,CAEA,UACI,YACJ","file":"main.16d28d81.chunk.css","sourcesContent":[".hide-text {\r\n    height: 15.5rem;\r\n    overflow: hidden;\r\n}\r\n\r\n.hide-btn {\r\n    display: none;\r\n}"]}
