@@ -5,7 +5,7 @@ import Home from '../components/Home/Home';
 
 const Router = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/date-space" >
             <Switch>
                 <Route path="/" component={Home} exact />
                 {/* <Route path="/form" component={UserForm} /> */}
